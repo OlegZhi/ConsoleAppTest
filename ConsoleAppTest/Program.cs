@@ -8,6 +8,7 @@ namespace ConsoleAppTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Учю C#");
+            Console.WriteLine("добавил через web");
         }
     }
 }
